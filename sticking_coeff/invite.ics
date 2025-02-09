@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:mailto:Yi_Xu@amat.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:xzhao2
+ 87@wisc.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE:mailto:Weifen
+ g_Ye@amat.com
+ATTACH:CID:9AD0DE3C3F01DE4AB209B47D4C87CCD0@NAMP102.PROD.OUTLOOK.COM
+DESCRIPTION;LANGUAGE=en-US:Hi Weifeng\,\n\nAppreciate your time to take wit
+ h Xianyuan.\n\nBest regards\,\nYi\n_______________________________________
+ _________________________________________\nMicrosoft Teams meeting\nJoin o
+ n your computer or mobile app\nClick here to join the meeting<https://team
+ s.microsoft.com/l/meetup-join/19%3ameeting_ZDUwZTZiMzMtNDc0ZS00ODJiLTg3ZDU
+ tYzI2ODY0NjIyOTgw%40thread.v2/0?context=%7b%22Tid%22%3a%22709c2643-b1a9-44
+ 15-ad0f-521cfa6ba3f5%22%2c%22Oid%22%3a%22afb269e5-4a12-4c71-b98f-f1d23e193
+ 2ce%22%7d>\nJoin with a video conferencing device\nteams@vc.amat.com<mailt
+ o:teams@vc.amat.com>\nVideo Conference ID: 115 638 368 2\nAlternate VTC in
+ structions<https://pexip.me/teams/vc.amat.com/1156383682>\nOr call in (aud
+ io only)\n+1 408-899-5236\,\,777514511#<tel:+14088995236\,\,777514511#>   
+ United States\, San Jose\n(844) 491-2780\,\,777514511#<tel:8444912780\,\,7
+ 77514511#>   United States (Toll-free)\nPhone Conference ID: 777 514 511#\
+ nFind a local number<https://dialin.teams.microsoft.com/f4c817ac-3cdd-4e23
+ -90c6-24873ded8c4b?id=777514511> | Reset PIN<https://mysettings.lync.com/p
+ stnconferencing>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting op
+ tions<https://teams.microsoft.com/meetingOptions/?organizerId=afb269e5-4a1
+ 2-4c71-b98f-f1d23e1932ce&tenantId=709c2643-b1a9-4415-ad0f-521cfa6ba3f5&thr
+ eadId=19_meeting_ZDUwZTZiMzMtNDc0ZS00ODJiLTg3ZDUtYzI2ODY0NjIyOTgw@thread.v
+ 2&messageId=0&language=en-US>\n___________________________________________
+ _____________________________________\n\n\nThe content of this message is 
+ APPLIED MATERIALS CONFIDENTIAL. If you are not the intended recipient\, pl
+ ease notify me\, delete this email and do not use or distribute this email
+ .\n
+UID:040000008200E00074C5B7101A82E0080000000040DA0E8D69BBD701000000000000000
+ 010000000B17431C416F5E844927B5B085768FD2D
+SUMMARY;LANGUAGE=en-US:Interview with Xianyuan Zhao
+DTSTART;TZID=Pacific Standard Time:20211007T153000
+DTEND;TZID=Pacific Standard Time:20211007T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20211007T175507Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:1172809701
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZDUwZTZiMzMtNDc0ZS00ODJiLTg3ZDUtYzI2ODY0NjIyOTgw%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22709c2643-b1a9-4415-ad0f-521cfa6ba3f5%22%2c%22O
+ id%22%3a%22afb269e5-4a12-4c71-b98f-f1d23e1932ce%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/709c2643-b1a9-4415-ad0f-521cfa6ba3f5/afb269e5-4a12-4c71-b98f-f
+ 1d23e1932ce/19_meeting_ZDUwZTZiMzMtNDc0ZS00ODJiLTg3ZDUtYzI2ODY0NjIyOTgw@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ZDUwZTZiMzMtNDc0ZS00ODJ
+ iLTg3ZDUtYzI2ODY0NjIyOTgw@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Yi_Xu@amat.com\;gruu\;opaque=app
+ :conf:focus:id:teams:2:0!19:meeting_ZDUwZTZiMzMtNDc0ZS00ODJiLTg3ZDUtYzI2OD
+ Y0NjIyOTgw-thread.v2!afb269e54a124c71b98ff1d23e1932ce!709c2643b1a94415ad0f
+ 521cfa6ba3f5
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
